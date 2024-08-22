@@ -1,0 +1,7 @@
+INFO    2020-02-29 11:20:01,354 [main] TestProperties  - OR Properties file loaded !!!
+INFO    2020-02-29 11:20:01,358 [main] TestProperties  - Config Properties file loaded !!!
+INFO    2020-02-29 11:20:11,619 [main] TestProperties  - Chrome launched !!!
+INFO    2020-02-29 11:20:18,660 [main] TestProperties  - Navigated to : http://gmail.com
+INFO    2020-02-29 11:20:24,135 [main] TestProperties  - Typing in an element : username_ID entered value as : trainer@way2automation.com
+INFO    2020-02-29 11:20:24,688 [main] TestProperties  - Clicking on an element : nextBtn_XPATH
+INFO    2020-02-29 11:20:26,024 [main] TestProperties  - Test Execution completed !!!
